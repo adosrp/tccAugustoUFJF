@@ -7,7 +7,7 @@ library(RColorBrewer)
 library(gridExtra)
 library(grid)
 
-setwd("../Dados/")
+setwd("../dados/")
 
 # ------------------------------------------------------------------------------
 # Multiple plot function -------------------------------------------------------
